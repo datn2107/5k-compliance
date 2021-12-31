@@ -1,4 +1,4 @@
-cd ./Submission
+cd ./5KCompliance
 pwd
 
 # declare WEIGHT, IMG_SIZE, CONFIDENCE, SOURCE, LINE_THICKNESS, DATAFRAME, SAVE_MODEL

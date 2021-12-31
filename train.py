@@ -19,7 +19,8 @@ def parser_argument():
                         default=os.path.join(os.path.dirname(os.path.realpath(__file__)), 'saved_models', 'new'))
     # os.path.join(os.path.dirname(os.path.realpath(__file__)), 'saved_models')
     parser.add_argument('--model_checkpoint', type=str, help='Checkpoint of model',
-                        default=os.path.join(os.path.dirname(os.path.realpath(__file__)), 'saved_models', 'densenet_mask.pt'))
+                        default=os.path.join(os.path.dirname(os.path.realpath(__file__)), 'saved_models',
+                                             'densenet_mask.pt'))
     parser.add_argument('--model_type', type=str, help='What is the purpose of model (classify distancing or mask)',
                         default=r'mask')
     parser.add_argument('--height', type=int, help='Height Image', default=300)

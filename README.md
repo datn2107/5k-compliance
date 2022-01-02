@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 
 # Download Checkpoint 
 All checkpoint available in this [link](https://drive.google.com/file/d/16W69z1dSle_hT_JE4PA8TtHcvuBJ3JEp/view).
-Download and put it into saved_models folder. 
+Download, extract and put them into saved_models folder. 
 
 
 # Predict tutorial

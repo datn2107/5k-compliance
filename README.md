@@ -15,6 +15,11 @@ This is the source code of AI Challenge Contest 2021.
 $ pip install -r requirements.txt 
 ```
 
+# Download Checkpoint 
+All checkpoint available in this [link](https://drive.google.com/file/d/16W69z1dSle_hT_JE4PA8TtHcvuBJ3JEp/view).
+Download and put it into saved_models folder. 
+
+
 # Predict tutorial
 
 ``` shell
